@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/seokm1n" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=seokm1n&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokm1n&layout=compact&theme=radical" />
 </p>  
 
